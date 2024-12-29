@@ -1,4 +1,4 @@
-# Docling-Llama-PDF-AI
+# Docling PDF Processor w/ Streamlit
 
 A simple UI wrapper around Docling for document processing. I built this to make document analysis more accessible and thought others might find it useful.
 
