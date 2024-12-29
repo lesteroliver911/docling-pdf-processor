@@ -79,5 +79,3 @@ python-dotenv
 - LlamaIndex integration adds powerful document structuring capabilities - see their [Docling reader docs](https://docs.llamaindex.ai/en/stable/api_reference/readers/docling/)
 
 Feel free to use this code, modify it, or suggest improvements. You can find me on [LinkedIn](https://www.linkedin.com/in/lesteroliver/) if you want to discuss Python, AI, or document processing.
-
-Built by [Your Name]
