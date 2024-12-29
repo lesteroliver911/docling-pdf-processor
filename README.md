@@ -16,7 +16,7 @@ Inspired by [Docling](https://github.com/DS4SD/docling) and its integration with
 
 Check out how it works:
 
-https://github.com/lesteroliver911/docling-pdf-processor/assets/lesteroliver-docling-streamlitui-demo.mp4
+lesteroliver-docling-streamlitui-demo.mp4
 
 ## Setup
 
