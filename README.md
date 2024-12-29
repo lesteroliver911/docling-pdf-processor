@@ -12,6 +12,12 @@ Inspired by [Docling](https://github.com/DS4SD/docling) and its integration with
 - Handles multi-page documents and complex tables
 - Makes document processing accessible to non-technical users
 
+## Demo
+
+Check out how it works:
+
+https://github.com/lesteroliver911/docling-pdf-processor/assets/lesteroliver-docling-streamlitui-demo.mp4
+
 ## Setup
 
 ```bash
