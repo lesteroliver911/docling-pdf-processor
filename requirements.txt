@@ -1,0 +1,6 @@
+docling
+streamlit
+pandas
+Pillow
+python-dotenv
+watchdog
