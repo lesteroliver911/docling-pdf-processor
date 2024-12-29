@@ -12,11 +12,7 @@ Inspired by [Docling](https://github.com/DS4SD/docling) and its integration with
 - Handles multi-page documents and complex tables
 - Makes document processing accessible to non-technical users
 
-## Demo
-
-Check out how it works:
-
-lesteroliver-docling-streamlitui-demo.mp4
+![Demo](demo.gif)
 
 ## Setup
 
