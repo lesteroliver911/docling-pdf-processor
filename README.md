@@ -20,7 +20,7 @@ Inspired by [Docling](https://github.com/DS4SD/docling) and its integration with
 git clone https://github.com/lesteroliver911/docling-pdf-processor.git
 cd docling-pdf-processor
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## How It Works
